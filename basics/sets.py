@@ -1,0 +1,6 @@
+x=set()
+x.add(4)
+x.add(5)
+x.add(3)
+print(x)
+print(type(x))
